@@ -4,6 +4,7 @@
     form > .container-div  input{
         padding: 5px 5px 5px 70px;
         border-radius: 5px;
+        margin-left: 50px;
         transform: translateY(-39px);
     }
 }
