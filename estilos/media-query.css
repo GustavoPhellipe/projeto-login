@@ -4,7 +4,8 @@
     form > .container-div  input{
         padding: 5px 5px 5px 70px;
         border-radius: 5px;
-        margin-left: 50px;
+        margin-top: 5px;
+        margin-left: 40px;
         transform: translateY(-39px);
     }
 }
@@ -31,7 +32,8 @@
        }
 
        form > .container-div > input{
-        padding: 5px 5px 5px 99px;
+        padding: 5px 70px 5px 70px;
+        text-align: center;
         border-radius: 5px;
         transform: translateY(-7px);
     }
@@ -45,7 +47,7 @@
         padding-top: 5px;
         margin-top: 5px;
         margin-left: 347px;
-        background-color: white;
+        background-color: rgb(255, 255, 255);
         color: #2d6462;
         border: 1px solid #49a09d;
         border-radius: 10px;
@@ -69,7 +71,6 @@
         float: left;
         width: 60%;
     }
-
     
 
     form > .container-div{
